@@ -1,0 +1,108 @@
+Education:
+Duy Tan University
+SEP 2009 - MAY 2013
+Major: Software engineering
+Rating: Excellent
+
+Develop website Zexy.net at FPT Software
+
+Sử dụng HTML, CSS, Javascript
+Sử dụng bộ mã nguồn mở rộng xử seasar Framework
+Tạo tài liệu thiết kế chi tiết, tài liệu test
+Thực hiện implement , Thực hiện test.
+
+language used: HTML, CSS, Javascript, Java/JSP/Servlet
+Technology used: 
+Seasar Framework: using at Backend
+Solr apache: Used to speed up data access
+Velocity: Use to create template string, mail templplate
+Other: XSLT, XML
+
+Created sites and implemented special features to achieve functionality outlined in project designs.
+Đã tạo các trang web và triển khai các tính năng đặc biệt để đạt được chức năng được nêu trong thiết kế dự án.
+
+Improved coding of JavaScript and CSS to enhance user experience and functionality.
+Cải thiện mã hóa JavaScript và CSS để nâng cao trải nghiệm và chức năng của người dùng.
+
+Coded, tested, debugged, documented, and implemented JSP/Servlet software applications.
+Các ứng dụng phần mềm [Loại] được mã hóa, thử nghiệm, gỡ lỗi, ghi lại và triển khai.
+
+Developed program logic for new applications based on fresh coding or revamped logic from existing applications.
+Phát triển logic chương trình cho các ứng dụng mới dựa trên mã hóa mới hoặc logic cải tiến từ các ứng dụng hiện có.
+
+Updated web pages and navigation tools to meet the client's current needs and improve usability.
+Các trang web và công cụ điều hướng được cập nhật để đáp ứng nhu cầu hiện tại của khách hàng và cải thiện khả năng sử dụng.
+
+Redesigned sections of websites to create user-friendly, visually appealing experience
+Các phần của trang web được thiết kế lại để tạo trải nghiệm trực quan, thân thiện với người dùng
+
+Developed websites to work properly across Microsoft EDGE, Google Chrome, Chrome Android and  Safary IOs browsers.
+Đã phát triển các trang web để hoạt động chính xác trên các trình duyệt Microsoft EDGE, Google Chrome, Chrome Android và Safary IOs.
+
+Worked on back end to develop server logic protocols and manage database connections.
+Đã làm việc ở phần phụ trợ để phát triển các giao thức logic của máy chủ và quản lý các kết nối cơ sở dữ liệu.
+
+Completed technical development and application tasks per approved project standards and allocated budgets.
+Hoàn thành các nhiệm vụ phát triển và ứng dụng kỹ thuật theo tiêu chuẩn dự án đã được phê duyệt và ngân sách được phân bổ.
+
+Validated the structure, security and compliance of website code.
+Xác thực cấu trúc, bảo mật và tuân thủ mã trang web.
+
+
+
+
+
+CRG: carsensor.net at FPT Software
+từ 2020 đến nay:
+
+Oracle Database
+language used: HTML, CSS, Javascript, Java/JSP/Servlet
+Technology used: 
+Seasar Framework: using at Backend
+Velocity: Use to create template string, mail templplate
+Other: Maven, Git
+
+
+Create Backend web application
+Language used: HTML, CSS, Javascript, Java/JSP/Servlet
+Technology used: 
+Seasar Framework: using at Backend
+Velocity: Use to create template string, mail templplate
+Perl: used to import data from client's system
+Asteri: Low code: used to import data from client's system
+
+Developed and upgraded backend Java code and related functionality.
+Phát triển và nâng cấp mã Java phụ trợ và chức năng liên quan.
+
+Developed program logic for new applications based on fresh coding or revamped logic from existing applications.
+Phát triển logic chương trình cho các ứng dụng mới dựa trên mã hóa mới hoặc logic cải tiến từ các ứng dụng hiện có.
+
+Coded, tested, debugged, documented, and implemented JSP/Servlet software applications.
+Các ứng dụng phần mềm [Loại] được mã hóa, thử nghiệm, gỡ lỗi, ghi lại và triển khai.
+
+Designed APIs to allow outside applications and sites to interact smoothly with websites.
+Các API được thiết kế để cho phép các ứng dụng và trang web bên ngoài tương tác trơn tru với các trang web.
+
+Worked on back end to develop server logic protocols and manage database connections.
+Đã làm việc ở phần phụ trợ để phát triển các giao thức logic của máy chủ và quản lý các kết nối cơ sở dữ liệu.
+
+Documented style guidelines to keep the design consistent across the team.
+Các hướng dẫn về phong cách được ghi lại để giữ cho thiết kế nhất quán trong toàn nhóm.
+
+Continuously studied and improved abilities with wide range of web technologies, design tools and programming practices.
+Liên tục nghiên cứu và nâng cao khả năng với nhiều công nghệ web, công cụ thiết kế và thực hành lập trình.
+
+Skill:
+Java
+HTML, CSS, Javascript
+SQL
+Git,Maven,Tomcat
+
+Language:
+	English: Working knowledge - Read/Write Document, Ticket
+	
+Recent certificate:
+	React - The Complete Guide (incl Hooks, React Router, Redux) - Udemy
+
+
+
